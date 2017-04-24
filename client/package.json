@@ -1,0 +1,7 @@
+{ 
+  "name": "oss-test",
+  "version": "0.0.1",
+  "dependencies" : {
+    "@wwt/convert": "^0.0.1"
+  }
+}
