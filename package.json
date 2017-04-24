@@ -1,7 +1,6 @@
 {
-  	"name": "wwt-oss-test",
+  	"name": "@wwt/convert",
     "version": "0.0.1",
-  	"dependencies": {
-    	"express": "~2.5.8"
-  	}
+    "Description": "Not for production use. Test module"
+    "engines": { "node": ">0.10" }
 }
